@@ -51,7 +51,7 @@ The HARANY Project showcases the power of data analytics in enhancing business d
 ![image alt text](https://github.com/AimadSADOUK/HARANY-Sales-Performance-Analysis_SQL_Power-BI/blob/main/2-%20Page01.PNG)
 
 # Vis#02: Detailed Product Line Analysis
-![image alt text](https://github.com/AimadSADOUK/HARANY-Sales-Performance-Analysis_SQL_Power-BI/blob/main/2-%20Page01.PNG)
+![image alt text](https://github.com/AimadSADOUK/HARANY-Sales-Performance-Analysis_SQL_Power-BI/blob/main/3-%20Page02.PNG)
 
 # Vis#03: Regional Sales Trends
 ![image alt text](https://github.com/AimadSADOUK/HARANY-Sales-Performance-Analysis_SQL_Power-BI/blob/main/4-%20Page03.PNG)
