@@ -47,6 +47,14 @@ The HARANY Project is an in-depth sales performance analysis of HARANY, a fictio
 
 The HARANY Project showcases the power of data analytics in enhancing business decision-making and driving growth. Insights gained from the analysis can be used to refine product strategies, optimize resource allocation, and improve customer engagement.
 
+### Contact
+
+Feel free to reach out if you have any questions or if you're interested in collaboration:
+
+**Email: sadouk.aimad@gmail.com**
+
+Thank you for taking the time to read my report; I hope it provides valuable insights and fosters thoughtful discussions.
+
 # Vis#01: Power BI Visualization Overview
 ![image alt text](https://github.com/AimadSADOUK/HARANY-Sales-Performance-Analysis_SQL_Power-BI/blob/main/2-%20Page01.PNG)
 
