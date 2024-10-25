@@ -1,7 +1,7 @@
 # HARANY Sales Performance Analysis
 
 **Author:** Aimad SADOUK  
-**LinkedIn:** [Aimad SADOUK](https://www.linkedin.com/in/aimad-sadouk)
+**LinkedIn:** @Aimad SADOUK
 
 ## Overview
 
@@ -46,3 +46,5 @@ The HARANY Project is an in-depth sales performance analysis of HARANY, a fictio
 ## Conclusion
 
 The HARANY Project showcases the power of data analytics in enhancing business decision-making and driving growth. Insights gained from the analysis can be used to refine product strategies, optimize resource allocation, and improve customer engagement.
+
+![image alt text](https://github.com/AimadSADOUK/HARANY-Sales-Performance-Analysis_SQL_Power-BI/blob/main/2-%20Page01.PNG)
