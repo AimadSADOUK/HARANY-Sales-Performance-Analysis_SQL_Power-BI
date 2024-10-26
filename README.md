@@ -1,8 +1,6 @@
 # HARANY Sales Performance Analysis
 
 **Author:** Aimad SADOUK  
-**LinkedIn:** @Aimad SADOUK
-
 ## Overview
 
 The HARANY Project is an in-depth sales performance analysis of HARANY, a fictional company providing innovative products across various sectors. This analysis utilizes SQL and Power BI to explore sales data across product lines, regions, deal sizes, and customer segments, aiming to uncover actionable insights to improve customer engagement and drive growth.
