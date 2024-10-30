@@ -65,5 +65,3 @@ Thank you for taking the time to read my report; I hope it provides valuable ins
 # Vis#03: Regional Sales Trends
 ![image alt text](https://github.com/AimadSADOUK/HARANY-Sales-Performance-Analysis_SQL_Power-BI/blob/main/4-%20Page03.PNG)
 
-# HARANY
-![image alt text](https://github.com/AimadSADOUK/HARANY-Sales-Performance-Analysis_SQL_Power-BI/blob/main/HARANY.png)
