@@ -27,7 +27,10 @@ The HARANY Project is an in-depth sales performance analysis of HARANY, a fictio
     - Common Table Expressions (CTEs)
     - Ranking Functions
     - Subqueries
-
+    - Max/Min/Average
+    - Ranking Functions
+    - Over/Partition By
+  
 - **Data Visualisation:** 
   - Power BI 
     - DAX 
