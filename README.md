@@ -5,6 +5,9 @@
 
 The HARANY Project is an in-depth sales performance analysis of HARANY, a fictional company providing innovative products across various sectors. This analysis utilizes SQL and Power BI to explore sales data across product lines, regions, deal sizes, and customer segments, aiming to uncover actionable insights to improve customer engagement and drive growth.
 
+![Harany](https://github.com/AimadSADOUK/HARANY-Sales-Performance-Analysis_SQL_Power-BI/blob/main/HARANY...png)
+
+--
 ## Project Objectives
 
 - **Sales Analysis:** Identify trends across product lines, regions, and customer segments.
